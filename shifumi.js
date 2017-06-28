@@ -1,5 +1,6 @@
 const choix=["pierre", "feuille", "ciseaux"];
 let point = 0;
+let text = "";
 
 
 let elements = document.querySelectorAll('img');
