@@ -16,11 +16,14 @@
 
 }
 
-#txt1{
-			padding-top: 50px;
-			font-size: 50px;
+#txt1, #txt2{
+			
+			font-size: 40px;
 			
 }
 .joueur{
 			font-size: 15px;
+}
+#txt1{
+			padding-top: 50px;
 }
