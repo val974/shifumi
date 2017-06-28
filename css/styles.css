@@ -31,3 +31,21 @@
 .row img:hover {
 			background-color: #f2f2f2;
 }
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="col-"] {
+        width: 100%;
+    }
+    .rules{
+			width: auto;
+			margin: auto;
+
+}
+	.joueur{
+			font-size: 25px;
+}
+	h1{
+			font-size: 55px;
+	}
+}

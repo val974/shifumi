@@ -3,6 +3,7 @@ let point = 0;
 let pointia = 0;
 
 
+
 let elements = document.querySelectorAll('img');
 
 let pierre = elements[0];
