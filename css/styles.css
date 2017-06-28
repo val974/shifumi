@@ -27,3 +27,7 @@
 #txt1{
 			padding-top: 50px;
 }
+
+.row img:hover {
+			background-color: #f2f2f2;
+}
